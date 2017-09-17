@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: monospace;
+  font-size: 5em;
+  text-shadow: 0px 0px 20px rgba(255,255,255,150);
+}
+#prompt{
+    /*overflow:hidden;
+    white-space: pre;
+    margin: 0 auto;
+    animation: cool 5s steps(30);*/
+    color: white;
+    text-shadow: 0px 0px 20px rgba(255,255,255,150);
+    /*border-right: 1ch solid white;*/
+}
+#length{
+  width: 50ch;
+  
+}
+/*@keyframes cool{
+  from{width:0ch;}
+    to{width:100%;}
+}*/
+
+#input {
+  width: 100%;
+  font-size: 1em;
+  padding: 1em;
+  margin: 1em;
+  background-color: black;
+  border-width: 0px;
+  color: white;
+  }
+#input:focus {
+  border-width: 0px;
+  outline: none;
+  }
