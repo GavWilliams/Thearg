@@ -1,3 +1,4 @@
+//@author Gavin Williams, will1742@purdue.edu
 var sInput;//stored input
 var notCom1 = true;
 var notCom2 = true;
